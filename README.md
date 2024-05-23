@@ -1,15 +1,15 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](https://atulkumarjha.io)
 <h1 align="center">Hi 👋, I'm Atul kumar jha</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER from India(Delhi)</h3>
+<h3 align="center">A passionate FRONT-END DEVELOPER from India(Delhi)</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumarjha" /> </p>
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **CLOUD COMPUTING**
 
-- 💬 Ask me about **MERN, Cloud computing**
+- 💬 Ask me about **FRONT-END DEVELOPMENT, Cloud computing**
 
 - 📫 How to reach me **jhaak301@gmail.com**
 
