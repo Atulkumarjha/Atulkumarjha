@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **CLOUD COMPUTING**
+- 🌱 I’m currently learning **API DEVELOPMENT**
 
 - 💬 Ask me about **FRONT-END DEVELOPMENT, Cloud computing**
 
