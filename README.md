@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **BACKEND**
+- 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 
 - 💬 Ask me about **FRONT-END DEVELOPMENT, Cloud computing**
 
