@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""/>
+  <img src="https://www.sliderrevolution.com/resources/css-border-animation/"/>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=ATUL+KUMAR+JHA;MERN-STACK-DEVELOPER" width="auto" height="35"/>
