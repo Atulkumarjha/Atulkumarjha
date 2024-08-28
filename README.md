@@ -2,7 +2,7 @@
   <img src=""/>
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=ATUL+KUMAR+JHA;MERN-STACK-DEVELOPER" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
@@ -10,30 +10,30 @@
 
 <h3 align="center">My interests</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=CLOUD+COMPUTING;API;WEB+DEVELOPMENT" width="auto" height="35"/>
 </p>
 
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
-<p align="center">Currently working on - Private Projects</p>
+<p align="center">Currently learning - BACKEND DEVELOPMENT</p>
+<p align="center">Currently working on - PRIVATE PROJECTS NAD HACKATHON</p>
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
+  <a href="https://github.com/Atulkumarjha.git" target="_blank">
+    <img align="center" src="Atulkumarjha" alt="Python" height="65" width="65" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atulkumarjha&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=true&theme=transparent" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Atulkumarjha&hide_border=true&theme=transparent" /> 
 </p>
 
 <!--Trophy-->
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&no-bg=true&no-frame=true&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atulkumarjha&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 
 <div align="center">
