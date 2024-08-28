@@ -1,13 +1,12 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](https://atulkumarjha.io)
-<h1 align="center">Hi 👋, I'm Atul kumar jha</h1>
-<h3 align="center">A passionate FRONT-END DEVELOPER from India(Delhi)</h3>
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png)](https://atulkumarjha.io)
+
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumarjha" /> </p>
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atul Kumar Jha
+Hi 👋, I'm Atul kumar jha
 ======================================================================================================================================
 
 FULL STACK DEVELOPER(MERN AND NEXT.JS)
