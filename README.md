@@ -1,4 +1,4 @@
-[![MasterHead]<img height="300" width="1000" src="https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png">](https://atulkumarjha.io)
+[![MasterHead]<img height="500" width="1000" src="https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png">](https://atulkumarjha.io)
 
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
