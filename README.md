@@ -41,8 +41,6 @@ src="https://img.shields.io/github/followers/Atulkumarjha?logo=github&style=for-
 
 <a href="http://www.github.com/Atulkumarjha"><img src="https://github-readme-stats.vercel.app/api?username=Atulkumarjha&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="Atulkumarjha's GitHub stats" /></a>
 
-<a href="http://www.github.com/Atulkumarjha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atulkumarjha&stroke=ef4444&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/Atulkumarjha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulkumarjha&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
